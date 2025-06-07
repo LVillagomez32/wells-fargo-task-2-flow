@@ -40,7 +40,7 @@ public class Advisor {
         this.email = email;
     }
 
-    public Long getAdvisorId() {
+    public long getAdvisorId() {
         return advisorId;
     }
 
