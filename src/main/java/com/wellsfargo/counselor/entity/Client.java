@@ -2,6 +2,7 @@ package com.wellsfargo.counselor.entity;
 
 import jakarta.persistence.*;
 
+@Entity
 public class Client {
 
     @Id
@@ -91,7 +92,7 @@ public class Client {
         this.advisor = newAdvisor;
     }
 
-    //testing
+    //added @Entity
 }
 
 
