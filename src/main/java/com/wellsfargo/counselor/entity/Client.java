@@ -90,6 +90,8 @@ public class Client {
     public void setAdvisor(Advisor newAdvisor){
         this.advisor = newAdvisor;
     }
+
+    //testing
 }
 
 
